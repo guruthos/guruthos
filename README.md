@@ -6,3 +6,7 @@
   - [Creating and Running Active Directory Home Lab with Virtual Machines](https://github.com/guruthos/ActiveDirectoryHomeLab)
 - <b>PowerShell</b>
   - [Generate Active Directory Users with Powershell Scripting](https://github.com/guruthos/ActiveDirectoryUsersPowershell)
+- <b>JavaScript</b>
+  - [Infinitely Scalable Tic-Tac-Toe](https://github.com/guruthos/TicTacToe)
+- <b>HTML/CSS</b>
+  - [Sample Business Website](http://www.kerrysotg.com)
